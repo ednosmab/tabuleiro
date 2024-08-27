@@ -1,0 +1,12 @@
+.quadrado {
+    width: 60px;
+    height: 60px;
+}
+
+.par {
+    background-color: white;
+}
+
+.impar {
+    background-color: #000;
+}
