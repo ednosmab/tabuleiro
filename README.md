@@ -2,13 +2,13 @@
 
 Criar um tabuleiro utilizando laço de repetição e implementar o conceito de Design System com componentização
 
-<hr>
+##
 
 🌎 Veja como ficou
 
 https://tabuleiro-three.vercel.app/
 
-<hr>
+##
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
