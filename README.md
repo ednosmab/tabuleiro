@@ -1,3 +1,9 @@
+📚 Desafio: 
+
+Criar um tabuleiro utilizando laço de repetição e implementar o conceito de Design System com componentização
+
+<hr>
+
 🌎 Veja como ficou
 
 https://tabuleiro-three.vercel.app/
